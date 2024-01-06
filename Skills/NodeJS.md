@@ -1,17 +1,17 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js 👂 heard
-  - Stateful and stateless servers 👂 heard
+  - Strong and weak sides of node.js: 👂 heard
+  - Stateful and stateless servers: 👂 heard
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection 👂 heard
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules 👂 heard
+  - CommonJS modules: 👂 heard
   - ECMAScript modules
   - node:module
   - Caching in CJS and ESM
@@ -86,26 +86,26 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S) 🖐️ used
-  - TCP/SSL 🖐️ used
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
   - UDP
   - TLS
-  - Websocket 🖐️ used
+  - Websocket: 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST 🖐️ used
+  - REST: 🖐️ used
   - RPC
   - Routing
   - DoS
-  - DDoS 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
   - DNS
   - Fetch API
   - IncomingMessage
-  - SQL injection 🖐️ used
+  - SQL injection: 🖐️ used
   - noDelay
   - keep-alive
   - ALPN
@@ -116,19 +116,19 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing 🖐️ used
+  - Testing: 🖐️ used
   - CI/CD
-  - Readable 🎓 known
-  - Writable 🎓 known
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - back pressure
-  - Buffer 🖐️ used
-  - Console 🖐️ used
+  - Buffer: 🖐️ used
+  - Console: 🖐️ used
   - Inspector
-  - Reliability 🎓 known
-  - Quality 🎓 known
-  - Availability 🎓 known
-  - Flexibility 🎓 known
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
 - Data access
   - Data access layer
   - Repository
@@ -136,10 +136,10 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error 🎓 known
+  - Error: 🎓 known
   - error.cause
   - error.code
-  - error.message 🎓 known
+  - error.message: 🎓 known
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace

@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 🖐️ used
-  - Imperative programming 🖐️ used
-  - Structured programming 🖐️ used
-  - Non-structured programming 🎓 known
-  - Functional programming 🎓 known
-  - Prototype-based programming 🖐️ used
-  - Object-oriented programming 🖐️ used
-  - Object-based programming 🎓 known
-  - Generic programming 🖐️ used
-  - Concurrent computing 🎓 known
-  - Asyncronous programming 🎓 known
-  - Parallel programming 🎓 known
-  - Reactive programming 🎓 known
-  - FRP (Functional-reactive) 👂 heard
-  - Automata-based programming 🖐️ used
-  - Domain-specific languages 🖐️ used
-  - Multi-paradigm programming 🎓 known
-  - Metaprogramming 🎓 known
-  - Actor model 🖐️ used
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🖐️ used
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 🖐️ used
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🎓 known
+  - Generic programming: 🖐️ used
+  - Concurrent computing: 🎓 known
+  - Asyncronous programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Reactive programming: 🎓 known
+  - FRP (Functional-reactive): 👂 heard
+  - Automata-based programming: 🖐️ used
+  - Domain-specific languages: 🖐️ used
+  - Multi-paradigm programming: 🎓 known
+  - Metaprogramming: 🎓 known
+  - Actor model: 🖐️ used
 - OOP basics
-  - constructor 🖐️ used
-  - new 🖐️ used
-  - Static method 🎓 known
-  - Method 🖐️ used
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🎓 known
+  - Method: 🖐️ used
   - Async method
-  - Getters, Setters 🖐️ used
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
-  - Field declarations 🖐️ used
-  - Inheritance 🖐️ used
-  - Parent class 🖐️ used
-  - Polymorphism 🖐️ used
-  - Abstract class 🖐️ used
-  - Interface 🖐️ used
-  - Encapsulation 🎓 known
-  - Hidden class 🎓 known
-  - Object form 🖐️ used
-  - instance 🖐️ used
-  - Introspection 🎓 known
-  - Reflection 🎓 known
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🎓 known
+  - Hidden class: 🎓 known
+  - Object form: 🖐️ used
+  - instance: 🖐️ used
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
 - Patterns
-  - Singleton 🖐️ used
-  - Factory Method 🖐️ used
-  - Abstract Factory 🖐️ used
-  - Adapter 🎓 known
-  - Observer 🖐️ used
-  - Strategy 🖐️ used
-  - Facade 🖐️ used
-  - Proxy 🎓 known
-  - Chain of Responsibility 🎓 known
-  - Command 🖐️ used
-  - Iterator 🖐️ used
-  - State 🎓 known
-  - Bridge 🎓 known
-  - Builder 🎓 known
-  - Prototype 🎓 known
-  - Composite 🎓 known
-  - Decorator 🖐️ used
-  - Flyweight 🎓 known
-  - Mediator 🎓 known
-  - Memento 🎓 known
-  - Template Method 🎓 known
-  - Visitor 🎓 known
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
+  - Adapter: 🎓 known
+  - Observer: 🖐️ used
+  - Strategy: 🖐️ used
+  - Facade: 🖐️ used
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
+  - Command: 🖐️ used
+  - Iterator: 🖐️ used
+  - State: 🎓 known
+  - Bridge: 🎓 known
+  - Builder: 🎓 known
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
+  - Decorator: 🖐️ used
+  - Flyweight: 🎓 known
+  - Mediator: 🎓 known
+  - Memento: 🎓 known
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
